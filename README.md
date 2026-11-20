@@ -12,8 +12,3 @@ Para aprender a pensar como um programador de verdade e entender como resolver p
 * **Desafios Reais do Dia a Dia:** Implementando algoritmos práticos com C# (filtros de decisão, sequenciadores e simuladores) para fixar a lógica na memória de longo prazo.
 * **Aprendendo direto na fonte** Ninguém melhor para ensinar sobre C# do que os próprios criadores da linguagem. Toda a minha base teórica está sendo construída 100% através do Microsoft Learn.
 
-## 📺 Acompanhe a Jornada em Vídeo
-Eu não estou apenas commitando esse código por aqui; também estou documentando os bastidores, os erros e os desafios através de um vídeo no estilo POV:
-
-* **YouTube:** [@oquasedev](https://www.youtube.com/@oquasedev)
-
